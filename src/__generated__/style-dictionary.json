@@ -1,7 +1,8 @@
 {
   "primary": {
-    "value": "#1117c4",
-    "type": "color"
+    "value": "#ba0d1a",
+    "type": "color",
+    "description": "Primary blue color"
   },
   "tokenSetOrder": {
     "0": {
