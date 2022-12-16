@@ -9,7 +9,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "build:style-dict": "style-dictionary build",
-    "build:figma-tokens": "yarn token-transformer ./src/__generated__/tokens.json ./src/__generated__/style-dictionary.json",
+    "build:figma-tokens": "yarn token-transformer ./src/__generated__/figma-tokens.json ./src/__generated__/style-dictionary.json",
     "build:ui-tokens": "yarn build:figma-tokens && yarn build:style-dict",
     "preview": "vite preview"
   },
