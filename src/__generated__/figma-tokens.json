@@ -1,8 +1,9 @@
 {
   "global": {
     "primary": {
-      "value": "#1117c4",
-      "type": "color"
+      "value": "#0d15b9",
+      "type": "color",
+      "description": "Primary blue color"
     }
   },
   "$themes": [],
