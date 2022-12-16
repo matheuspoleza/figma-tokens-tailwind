@@ -1,0 +1,14 @@
+{
+  "global": {
+    "primary": {
+      "value": "#1117c4",
+      "type": "color"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
