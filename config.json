@@ -1,0 +1,15 @@
+{
+  "source": ["src/__generated__/style-dictionary.json"],
+  "platforms": {
+    "javascript": {
+      "transformGroup": "js",
+      "buildPath": "src/__generated__/",
+      "files": [
+        {
+          "destination": "style-dictionary.js",
+          "format": "javascript/module"
+        }
+      ]
+    }
+  }
+}
