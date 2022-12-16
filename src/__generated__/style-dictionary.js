@@ -1,17 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Dec 2022 02:36:57 GMT
+ * Generated on Fri, 16 Dec 2022 02:47:52 GMT
  */
 
 module.exports = {
   "primary": {
-    "value": "#ba0d1a",
+    "value": "#0a0b7f",
     "type": "color",
     "description": "Primary blue color",
     "filePath": "src/__generated__/style-dictionary.json",
     "isSource": true,
     "original": {
-      "value": "#ba0d1a",
+      "value": "#0a0b7f",
       "type": "color",
       "description": "Primary blue color"
     },
