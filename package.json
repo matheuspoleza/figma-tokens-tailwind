@@ -1,0 +1,14 @@
+{
+  "name": "figma-tokens-tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:matheuspoleza/figma-tokens-tailwind.git",
+  "author": "Matheus Poleza <matheus.poleza@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn token-transformer tokens.json style-dictionary.json"
+  },
+  "devDependencies": {
+    "token-transformer": "^0.0.28"
+  }
+}

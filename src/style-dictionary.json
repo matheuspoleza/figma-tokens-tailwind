@@ -1,0 +1,12 @@
+{
+  "primary": {
+    "value": "#1117c4",
+    "type": "color"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  }
+}
